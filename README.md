@@ -1,4 +1,5 @@
 Amazon Project: Data Integration & Analytics 🚀
+
 Overview
 Dived into the world of data wrangling to create an efficient and streamlined solution for Amazon-related datasets! This project showcases expertise in SQL, Power BI, and Excel, transforming raw data into clean, structured, and insightful visuals for better decision-making.
 Key Contributions
